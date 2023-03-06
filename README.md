@@ -5,6 +5,7 @@ http://docs.opencv.org/2.4/doc/tutorials/calib3d/camera_calibration/camera_calib
 
 
 # How to use:   
+(Authors note: this was just a collection of useful openCV snippets. It has not been touched or maintained in a long time and may be a red herring, I recommend going directly to the opencv docs for help instead of using anything here).
 
 `cmake .`  
 `make`    
